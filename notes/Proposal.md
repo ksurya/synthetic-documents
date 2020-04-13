@@ -1,5 +1,6 @@
-# Proposal 1
+# End-to-End Information Retrieval in Document Images
 
+Represent document images such that basic text operations are possible directly on them.
 
 - Document images are synthetically created. Varied by number of paragraphs, paragraph length, 
     font-size, font-color, background color, background patterns, overlapping sentences or
@@ -11,4 +12,3 @@
     - reading comprehension
     - replace sentence by controlling style
     - replace style by controlling sentences
-
